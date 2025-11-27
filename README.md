@@ -12,8 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=itpRakib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itpRakib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itpRakib&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
