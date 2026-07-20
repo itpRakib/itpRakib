@@ -1,19 +1,23 @@
 <div align="center">
 
-  <!-- 3D Cylinder Banner with Twinkling Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=240046,3C096C,7B2CBF,9D4EDD&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+  <!-- Dynamic Animated SVG Banner -->
+  <a href="https://portfolio-main-eight-gold.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,5A189A,0D1117&height=240&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Tech%20Innovator&descAlignY=55&descSize=20&descColor=E0AAFF" width="100%" alt="Animated Header Banner"/>
+  </a>
 
+  <!-- Server-Rendered Typewriter Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+Web+Developer;Cloud+%26+Database+Architect;Tech+Innovator+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Architecting+Scalable+Backends;Engineering+Immersive+UIs;Building+the+Future+of+the+Web" alt="Typing SVG" />
   </a>
 
   <br />
   <br />
 
+  <!-- Premium Unified Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science_%26_Engineering-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
+    <img src="https://img.shields.io/badge/Degree-B.A.Sc._Computer_Science-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
     <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-3C096C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
-    <img src="https://img.shields.io/badge/Location-Jessore,_Bangladesh-240046?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-240046?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
 
   <p align="center">
@@ -31,17 +35,20 @@
     </a>
   </p>
 
+  <!-- Fixed GitHub Analytics Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=itpRakib&style=for-the-badge&color=5A189A&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS" alt="Stars" />
+    <a href="https://github.com/itpRakib?tab=followers">
+      <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS" alt="Followers" />
+    </a>
+    <a href="https://github.com/itpRakib?tab=repositories">
+      <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS" alt="Stars" />
+    </a>
   </p>
   
   <br />
 
 </div>
-
----
 
 ---
 
