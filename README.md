@@ -224,18 +224,7 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 
 ---
 ---
-
-## 10. GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=itpRakib&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 11. Contribution Activity
+## 10. Contribution Activity
 
 <div align="center">
 
@@ -245,11 +234,7 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 
 ---
 
----
-
-
-
-## 12. Contribution Snake
+## 11. Contribution Snake
 
 <div align="center">
   <picture>
@@ -260,6 +245,24 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 </div>
 
 ---
+
+## 12. Current Focus
+
+```yaml
+current_status:
+  learning:
+    - Advanced Data Structures & Algorithm Design in C++
+    - System Design & Distributed Systems Fundamentals
+  building:
+    - High-performance full-stack applications with React & Node.js
+    - Scalable cloud infrastructure setups on AWS
+  exploring:
+    - Cloud-native database optimizations and microservices architecture
+    - Generative AI integrations for automated engineering workflows
+  open_to:
+    - Software Engineering Internships
+    - Full-Stack / Backend Engineering Roles
+    - Open Source Collaboration
 
 ## 13. Current Focus
 
