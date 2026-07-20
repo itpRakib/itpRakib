@@ -1,56 +1,120 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE Hero Animation</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0D1117;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Fira Code', monospace;
+        }
+        canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            color: #ffffff;
+            background: rgba(13, 17, 23, 0.7);
+            padding: 40px;
+            border-radius: 15px;
+            border: 1px solid #7B2CBF;
+            box-shadow: 0 0 30px rgba(123, 44, 191, 0.5);
+            backdrop-filter: blur(5px);
+        }
+        h1 {
+            font-size: 3rem;
+            margin: 0 0 10px 0;
+            background: linear-gradient(90deg, #9D4EDD, #E0AAFF);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p {
+            font-size: 1.2rem;
+            color: #A3B3CC;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
 
-  <!-- Dynamic Animated SVG Banner -->
-  <a href="https://portfolio-main-eight-gold.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,5A189A,0D1117&height=240&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Tech%20Innovator&descAlignY=55&descSize=20&descColor=E0AAFF" width="100%" alt="Animated Header Banner"/>
-  </a>
+    <canvas id="techCanvas"></canvas>
 
-  <!-- Server-Rendered Typewriter Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Architecting+Scalable+Backends;Engineering+Immersive+UIs;Building+the+Future+of+the+Web" alt="Typing SVG" />
-  </a>
+    <div class="hero-content">
+        <h1>MD. Rakibul Islam</h1>
+        <p>>_ Software Engineer & Tech Innovator</p>
+    </div>
 
-  <br />
-  <br />
+    <script>
+        const canvas = document.getElementById('techCanvas');
+        const ctx = canvas.getContext('2d');
 
-  <!-- Premium Unified Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Degree-B.A.Sc._Computer_Science-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
-    <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-3C096C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
-    <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-240046?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </p>
+        // Set canvas to full window size
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
 
-  <p align="center">
-    <a href="https://portfolio-main-eight-gold.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/md-rakibul-islam-799364327">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rakib.00245@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/itpRakib">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+        // CSE / Stack specific characters for the animation
+        const chars = '01{}[]<>C++PythonSQLReactNodeJSUIUXData0101';
+        const charArray = chars.split('');
 
-  <!-- Fixed GitHub Analytics Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=itpRakib&style=for-the-badge&color=5A189A&label=PROFILE+VIEWS" alt="Profile Views" />
-    <a href="https://github.com/itpRakib?tab=followers">
-      <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS" alt="Followers" />
-    </a>
-    <a href="https://github.com/itpRakib?tab=repositories">
-      <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS" alt="Stars" />
-    </a>
-  </p>
-  
-  <br />
+        const fontSize = 16;
+        const columns = canvas.width / fontSize;
+        const drops = [];
 
-</div>
+        // Initialize drop positions
+        for (let x = 0; x < columns; x++) {
+            drops[x] = 1;
+        }
 
----
+        function drawMatrix() {
+            // Semi-transparent black to create the trail effect
+            ctx.fillStyle = 'rgba(13, 17, 23, 0.05)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Dark luxury purple text color
+            ctx.fillStyle = '#9D4EDD'; 
+            ctx.font = fontSize + 'px Fira Code, monospace';
+
+            for (let i = 0; i < drops.length; i++) {
+                // Pick a random character
+                const text = charArray[Math.floor(Math.random() * charArray.length)];
+                
+                // Draw the character
+                ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+
+                // Reset drop to top randomly to create staggered falling effect
+                if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+                    drops[i] = 0;
+                }
+                drops[i]++;
+            }
+        }
+
+        // Loop the animation at ~30 FPS
+        setInterval(drawMatrix, 33);
+
+        // Handle window resizing
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        });
+    </script>
+</body>
+</html>
+
+
 
 ## 01. About Me
 
