@@ -1,17 +1,17 @@
 <div align="center">
 
-  <!-- Dark Luxury Tech Banner with Twinkling Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D0221,190033,3C096C,7B2CBF&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner"/>
+  <!-- Dynamic Terminal-Style Header with Twinkling Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=%3C%2F%3E%20MD.%20RAKIBUL%20ISLAM&fontSize=50&fontColor=00FFD1&animation=twinkling&fontAlignY=35&desc=%E2%9E%A4%20B.Sc.%20Computer%20Science%20%26%20Engineering%20%7C%20Northern%20University&descAlignY=55&descSize=14&descColor=E0AAFF" width="100%" alt="Header Banner"/>
 
-  <!-- Terminal Booting Typing Animation -->
+  <!-- Code-Syntax Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E0AAFF&center=true&vCenter=true&width=800&height=60&lines=%3E_sys.init(%22Computer_Science_Engineer%22);%3E_Compiling_Full_Stack_Architecture...;%3E_Executing_Database_Optimizations...;%3E_Status:+Ready_to_build." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=50&lines=sudo+apt-get+install+full-stack-dev;%3E+Architecting+Scalable+Web+Systems;const+stack+%3D+%5B%22JS%22%2C+%22Python%22%2C+%22C%2B%2B%22%5D;%3E+Optimizing+Databases+%26+Cloud+Infra" alt="Typing SVG" />
   </a>
 
   <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
+    <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science_%26_Engineering-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
     <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-3C096C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
     <img src="https://img.shields.io/badge/Location-Jessore,_Bangladesh-240046?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
@@ -31,37 +31,16 @@
     </a>
   </p>
 
+  <!-- Fixed Analytics Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=itpRakib&style=for-the-badge&color=5A189A&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS&cacheSeconds=3600" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS&cacheSeconds=3600" alt="Stars" />
+    <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS" alt="Stars" />
   </p>
-
+  
 </div>
 
-```cpp
-// ⚙️ core_profile.cpp
-#include <iostream>
-#include <string>
-
-class FullStackEngineer {
-private:
-    std::string name = "MD. Rakibul Islam";
-    std::string focus = "Full-Stack Web Development & Cloud Infrastructure";
-    std::string stack[5] = {"C/C++", "JavaScript", "React", "Node.js", "MySQL"};
-
-public:
-    void execute() {
-        std::cout << "Initiating product engineering mindset..." << std::endl;
-        std::cout << "Building scalable, secure, and accessible architectures." << std::endl;
-    }
-};
-
-int main() {
-    FullStackEngineer dev;
-    dev.execute();
-    return 0;
-}
+---
 
 ---
 
