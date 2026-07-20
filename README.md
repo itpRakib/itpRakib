@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Flawless Dark-Luxury Animated Banner (Blends into GitHub Dark Mode) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A0B2E,7B2CBF&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=50&fontColor=00FFD1&animation=twinkling&fontAlignY=35&desc=%7B%20Computer%20Science%20and%20Engineering%20%7D&descAlignY=58&descSize=16&descColor=E0AAFF" width="100%" alt="CSE Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,3C096C,7B2CBF,9D4EDD&height=230&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3C%2F%3E%20B.Sc.%20Computer%20Science%20%26%20Engineering&descAlignY=62&descSize=20&descColor=00FFD1" width="100%" alt="CSE Header Banner"/>
 
   <!-- Neon Terminal Typing Animation -->
   <a href="https://git.io/typing-svg">
