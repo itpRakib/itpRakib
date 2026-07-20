@@ -14,7 +14,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science_%26_Engineering-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
     <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-3C096C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
-    <img src="https://img.shields.io/badge/Location-Jessore,_Bangladesh-240046?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
 
   <!-- Social Connect Badges -->
