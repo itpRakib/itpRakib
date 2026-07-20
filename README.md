@@ -230,15 +230,18 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
   <img src="https://github-profile-trophy.vercel.app/?username=itpRakib&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 
 </div>
+
 ---
 
 ## 11. Contribution Activity
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tpRakib&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=7B2CBF&point=FFFFFF" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itpRakib&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=7B2CBF&point=FFFFFF" width="100%" alt="Contribution Graph" />
 
 </div>
+
+---
 
 ---
 
