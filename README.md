@@ -1,12 +1,4 @@
-#### :memo: Misc
-
-* [my LGTM collections](https://yoshi389111.github.io/LGTM/lgtm.html)
-
-![](./profile-3d-contrib/profile-green-dual.svg)
-
-
-
----
+<h1 align="center">Hi 👋, I'm Rakib</h1>
 
 
 <div align="center">
