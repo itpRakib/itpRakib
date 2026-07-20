@@ -43,7 +43,8 @@
 </div>
 
 ---
- ## My favorite tools and technologies ⚙️
+
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -168,6 +169,8 @@
  <tr>
  </tr>
 </table>
+
+---
 
 ## 01. About Me
 
@@ -383,4 +386,6 @@ current_status:
     - Software Engineering Internships
     - Full-Stack / Backend Engineering Roles
     - Open Source Collaboration
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
