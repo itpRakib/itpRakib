@@ -16,7 +16,7 @@
 
   <p align="center">
     <a href="https://github.com/tpRakib">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+      <img src="[https://img.shields.io/badge/Portfolio-Visit_Site-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white](https://portfolio-main-eight-gold.vercel.app/)" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/md-rakibul-islam-799364327">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
