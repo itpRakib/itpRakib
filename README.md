@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=%3C%20Software%20Engineer%20%26%20Web%20Developer%20%2F%3E&descAlignY=60&descSize=18&descColor=00FFD1" width="100%" alt="Tech Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=%3C%20MD.%20RAKIBUL%20ISLAM%20%2F%3E&fontSize=55&fontColor=00FFD1&animation=fadeIn&fontAlignY=38" width="100%" alt="Developer Header Banner"/>
 
   <!-- Neon Terminal Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -155,10 +155,6 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 * **Scope:** Developing production-grade web tools, implementing relational data models, participating in collaborative academic project builds.
 * `C++` `SQL` `Web Development` `DBMS` `AWS`
 
-### **Higher Secondary Certificate (HSC), Science**
-*BAF Shaheen College Jessore* | `Graduated 2022`
-* **Focus:** Higher Mathematics, Physics, Chemistry, Information & Communication Technology (ICT).
-* `Mathematics` `Physics` `ICT`
 
 ---
 
