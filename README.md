@@ -1,16 +1,17 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=190028,240046,3C096C,7B2CBF,9D4EDD&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <!-- 3D Cylinder Banner with Twinkling Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=240046,3C096C,7B2CBF,9D4EDD&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+Web+Developer;UI+Animation+%26+GSAP+Enthusiast;Tech+Innovator+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+Web+Developer;Cloud+%26+Database+Architect;Tech+Innovator+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 
   <br />
   <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science_&_Engineering-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
+    <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science_%26_Engineering-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
     <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-3C096C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
     <img src="https://img.shields.io/badge/Location-Jessore,_Bangladesh-240046?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
