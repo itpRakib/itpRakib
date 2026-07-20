@@ -46,6 +46,20 @@
 ---
 
 
+
+## 01. About Me
+
+Passionate Computer Science student and aspiring Software Engineer with a primary focus on Web Development, Cloud Infrastructure, and Technical Innovation. Experienced in engineering responsive, performant, and fully accessible web solutions using modern front-end technologies and secure database architectures.
+
+Driven by an enterprise-grade product engineering mindset, I emphasize robust logic, clean algorithms, scalable relational database designs, and seamless cloud integration. Always keen to leverage modern engineering standards to bridge the gap between complex backend systems and intuitive user interfaces.
+
+* **Engineering Focus:** Web Application Architecture, Cloud Services, Relational Databases
+* **Core Competencies:** Full-Stack Foundations, Algorithmic Optimization, Database Security
+* **Open To:** Software Engineering Internships, Junior Full Stack Roles, Open-Source Collaborations
+
+---
+
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -172,19 +186,6 @@
 </table>
 
 ---
-
-## 01. About Me
-
-Passionate Computer Science student and aspiring Software Engineer with a primary focus on Web Development, Cloud Infrastructure, and Technical Innovation. Experienced in engineering responsive, performant, and fully accessible web solutions using modern front-end technologies and secure database architectures.
-
-Driven by an enterprise-grade product engineering mindset, I emphasize robust logic, clean algorithms, scalable relational database designs, and seamless cloud integration. Always keen to leverage modern engineering standards to bridge the gap between complex backend systems and intuitive user interfaces.
-
-* **Engineering Focus:** Web Application Architecture, Cloud Services, Relational Databases
-* **Core Competencies:** Full-Stack Foundations, Algorithmic Optimization, Database Security
-* **Open To:** Software Engineering Internships, Junior Full Stack Roles, Open-Source Collaborations
-
----
-
 ## 02. Tech Stack
 
 <div align="center">
