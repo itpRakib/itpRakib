@@ -1,23 +1,273 @@
-# 💫 About Me:
-🚀 Aspiring to become a top-tier software developer capable of excelling in any industry.<br><br>🎓 Currently a focused student dedicated to mastering fundamental and advanced coding concepts.<br><br>🧠 Committed to rigorous learning, continuous upskilling, and practical problem-solving.<br><br>🌱 Building a strong technical foundation; actively seeking opportunities to gain professional experience.
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=dracula" width="100%" alt="Header Banner"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-rakibul-islam-799364327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakib.00245@gmail.com) 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Web+Developer+%26+Tech+Innovator;Full+Stack+%26+Cloud+Enthusiast;AI%2FML+%26+Database+Architect" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itpRakib&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itpRakib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <br />
 
+  <p align="center">
+    <img src="https://img.shields.io/badge/Degree-B.A.Sc._Computer_Science-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
+    <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-2E0854?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
+    <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-3C096C?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </p>
 
+  <p align="center">
+    <a href="https://github.com/tpRakib">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/md-rakibul-islam-799364327">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:rakib.00245@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/tpRakib">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itpRakib&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tpRakib&style=flat-square&color=7B2CBF&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/tpRakib?style=flat-square&color=5A189A&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/tpRakib?style=flat-square&color=3C096C&label=STARS" alt="Stars" />
+  </p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itpRakib&icon=4&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 01. About Me
+
+Passionate Computer Science student and aspiring Software Engineer with a primary focus on Web Development, Cloud Infrastructure, and Technical Innovation. Experienced in engineering responsive, performant, and fully accessible web solutions using modern front-end technologies and secure database architectures.
+
+Driven by an enterprise-grade product engineering mindset, I emphasize robust logic, clean algorithms, scalable relational database designs, and seamless cloud integration. Always keen to leverage modern engineering standards to bridge the gap between complex backend systems and intuitive user interfaces.
+
+* **Engineering Focus:** Web Application Architecture, Cloud Services, Relational Databases
+* **Core Competencies:** Full-Stack Foundations, Algorithmic Optimization, Database Security
+* **Open To:** Software Engineering Internships, Junior Full Stack Roles, Open-Source Collaborations
+
+---
+
+## 02. Tech Stack
+
+<div align="center">
+
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts&theme=dark" alt="Languages" />
+
+<br/>
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" alt="Frontend" />
+
+<br/>
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,express,nodejs&theme=dark" alt="Backend and Databases" />
+
+<br/>
+
+### Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,vscode&theme=dark" alt="Cloud and DevOps" />
+
+</div>
+
+---
+
+## 03. AI / ML Expertise
+
+| Domain | Proficiency | Details & Applications |
+| :--- | :--- | :--- |
+| **Generative AI Studio** | Intermediate | Google Cloud Platform integration, Prompt Engineering, LLM Exploration |
+| **Data Analysis & Processing** | Foundational | Structured data manipulation with SQL, MS Excel, and core C++ logic |
+| **AI Tooling & Workflows** | Practical | Incorporating AI-assisted developer workflows for code optimization and productivity |
+
+---
+
+## 04. Featured Projects
+
+<details>
+<summary><b>01. Personal Portfolio & Accessibility Showcase</b> — <i>High-performance accessible web platform</i></summary>
+<br/>
+
+Engineered a fully responsive personal web platform strictly adhering to global accessibility guidelines. Optimized media assets and layout reflows to deliver exceptional visual presentation and ultra-fast page speed across desktop and mobile devices.
+
+| Metric / Dimension | Specification / Implementation Details |
+| :--- | :--- |
+| **Stack** | HTML5, CSS3, Modern JavaScript, Web Accessibility Standards |
+| **Scale** | Fully cross-browser compatible, zero-dependency deployment |
+| **Performance** | 100% Lighthouse Accessibility & Performance Score |
+| **Security** | Secure content policies, static site hardening |
+| **Impact** | Serves as a reference implementation for WCAG 2.1 AA standards |
+| **Repository** | [tpRakib/Portfolio](https://github.com/tpRakib) |
+
+</details>
+
+<details>
+<summary><b>02. Relational Database Management System (RDBMS) Implementation</b> — <i>Enterprise SQL architecture</i></summary>
+<br/>
+
+Architected a robust relational database schema engineered for small-to-medium scale applications. Leveraged intermediate-to-advanced SQL techniques to manage complex relational models, constraint enforcement, and query performance optimizations.
+
+| Metric / Dimension | Specification / Implementation Details |
+| :--- | :--- |
+| **Stack** | MySQL, SQL, Amazon Aurora, Amazon RDS |
+| **Scale** | Multi-table relational architecture supporting high-concurrency queries |
+| **Performance** | Index-optimized queries minimizing data retrieval latency |
+| **Security** | Configured RDS security groups, encryption at rest, and IAM policy access |
+| **Impact** | Provides high-availability database foundation with automated backups |
+| **Repository** | [tpRakib/RDBMS-Implementation](https://github.com/tpRakib) |
+</details>
+
+<details>
+<summary><b>03. C++ Algorithm Visualizer</b> — <i>Low-level CLI algorithm performance suite</i></summary>
+<br/>
+
+Designed a high-efficiency command-line visualization tool in C++ to demonstrate fundamental sorting and searching algorithms. Built to analyze execution time, memory overhead, and step-by-step algorithmic state shifts in real-time.
+
+| Metric / Dimension | Specification / Implementation Details |
+| :--- | :--- |
+| **Stack** | C++, Data Structures & Algorithms, Standard Template Library (STL) |
+| **Scale** | Command-Line Interface handling dynamic array sizes and custom input data |
+| **Performance** | Native execution speed with optimized memory footprint |
+| **Security** | Strict pointer and memory safety practices preventing buffer overflow |
+| **Impact** | Used as an educational visual aid for peer learning in CS data structure topics |
+| **Repository** | [tpRakib/CPP-Algorithm-Visualizer](https://github.com/tpRakib) |
+</details>
+
+---
+
+## 05. Experience & Education
+
+### **Bachelor of Applied Science (B.A.Sc.) in Computer Science**
+*Northern University Bangladesh* | `Sep 2023 — May 2027`
+* **Focus:** Software Engineering Principles, Data Structures & Algorithms, Database Management, Cloud Infrastructure.
+* **Scope:** Developing production-grade web tools, implementing relational data models, participating in collaborative academic project builds.
+* `C++` `SQL` `Web Development` `DBMS` `AWS`
+
+### **Higher Secondary Certificate (HSC), Science**
+*BAF Shaheen College Jessore* | `Graduated 2022`
+* **Focus:** Higher Mathematics, Physics, Chemistry, Information & Communication Technology (ICT).
+* `Mathematics` `Physics` `ICT`
+
+---
+
+## 06. Achievements
+
+<div align="center">
+
+| Recognition | Details / Field |
+| :--- | :--- |
+| **AWS Cloud Specialization** | Successfully completed specialized coursework in Amazon Aurora & Amazon RDS MySQL |
+| **Intermediate SQL Certification** | Demonstrated mastery in complex querying, data aggregation, and database relational models |
+| **Web Accessibility Leader** | Designed and showcased 100% WCAG-compliant web systems for inclusive usability |
+
+</div>
+
+---
+
+## 07. Certifications
+
+### Amazon Web Services
+![](https://img.shields.io/badge/AWS-Amazon_Aurora_%26_Amazon_RDS_MySQL_Specialization-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### Oracle / SQL
+![](https://img.shields.io/badge/SQL-SQL_Intermediate_Certificate-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Google Cloud Platform
+![](https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI_Studio-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+### Professional Development
+![](https://img.shields.io/badge/Career-AI_and_Career_Empowerment-7B2CBF?style=flat-square&logo=mindshare&logoColor=white)
+
+---
+
+## 08. Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+<a href="https://hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+</a>
+<a href="https://codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+</div>
+
+---
+
+## 09. GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tpRakib&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=7B2CBF&text_color=F8F8F2&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tpRakib&theme=dracula&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" width="49%" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpRakib&layout=compact&theme=dracula&hide_border=true&title_color=9D4EDD&text_color=F8F8F2&bg_color=0D1117" alt="Top Languages" width="49%" />
+
+</div>
+
+---
+
+## 10. GitHub Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=tpRakib&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 11. Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tpRakib&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=7B2CBF&point=FFFFFF" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 12. Contribution Snake
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/tpRakib/tpRakib/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+</div>
+
+---
+
+## 13. Current Focus
+
+```yaml
+current_status:
+  learning:
+    - Advanced Data Structures & Algorithm Design in C++
+    - System Design & Distributed Systems Fundamentals
+  building:
+    - High-performance full-stack applications with React & Node.js
+    - Scalable cloud infrastructure setups on AWS
+  exploring:
+    - Cloud-native database optimizations and microservices architecture
+    - Generative AI integrations for automated engineering workflows
+  open_to:
+    - Software Engineering Internships
+    - Full-Stack / Backend Engineering Roles
+    - Open Source Collaboration
+
+    14. Connect With Me
+"Striving for operational excellence through clean code, performant architecture, and continuous technical growth."
