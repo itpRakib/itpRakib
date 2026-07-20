@@ -1,17 +1,18 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=dracula" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,3C096C,7B2CBF,9D4EDD&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Web+Developer+%26+Tech+Innovator;Full+Stack+%26+Cloud+Enthusiast;AI%2FML+%26+Database+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+Web+Developer;Cloud+%26+Database+Architect;Tech+Innovator+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 
   <br />
+  <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Degree-B.A.Sc._Computer_Science-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
-    <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-2E0854?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
-    <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-3C096C?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science_&_Engineering-4B0082?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
+    <img src="https://img.shields.io/badge/University-Northern_University_Bangladesh-3C096C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University" />
+    <img src="https://img.shields.io/badge/Location-Jessore,_Bangladesh-240046?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
 
   <p align="center">
@@ -24,18 +25,22 @@
     <a href="mailto:rakib.00245@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/tpRakib">
+    <a href="https://github.com/itpRakib">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tpRakib&style=flat-square&color=7B2CBF&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/tpRakib?style=flat-square&color=5A189A&label=FOLLOWERS" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/tpRakib?style=flat-square&color=3C096C&label=STARS" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=itpRakib&style=for-the-badge&color=5A189A&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS" alt="Stars" />
   </p>
+  
+  <br />
 
 </div>
+
+---
 
 ---
 
@@ -212,12 +217,12 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=itpRakib&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=7B2CBF&text_color=F8F8F2&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itpRakib&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=7B2CBF&text_color=F8F8F2&bg_color=0D1117&cache_seconds=86400&v=1" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itpRakib&theme=dracula&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" width="49%" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&layout=compact&theme=dracula&hide_border=true&title_color=9D4EDD&text_color=F8F8F2&bg_color=0D1117" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&layout=compact&theme=dracula&hide_border=true&title_color=9D4EDD&text_color=F8F8F2&bg_color=0D1117&cache_seconds=86400&v=1" alt="Top Languages" width="49%" />
 
 </div>
 
@@ -227,7 +232,7 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=itpRakib&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itpRakib&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true&v=1" alt="GitHub Trophies" />
 
 </div>
 
