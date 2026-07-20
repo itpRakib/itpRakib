@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Animated Tech Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F0C29,302B63,24243E,9D4EDD&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering&descAlignY=55&descAlign=50" width="100%" alt="Header Banner"/>
+  <!-- Dark Luxury Tech Banner with Twinkling Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D0221,190033,3C096C,7B2CBF&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner"/>
 
-  <!-- Terminal Typing Effect -->
-  <a href="https://github.com/itpRakib">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=%3E_Initializing+System...;%3E_B.Sc.+Computer+Science;%3E_Full-Stack+Web+Developer;%3E_System.out.println(%22Hello+World!%22);" alt="Terminal Typing SVG" />
+  <!-- Terminal Booting Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E0AAFF&center=true&vCenter=true&width=800&height=60&lines=%3E_sys.init(%22Computer_Science_Engineer%22);%3E_Compiling_Full_Stack_Architecture...;%3E_Executing_Database_Optimizations...;%3E_Status:+Ready_to_build." alt="Typing SVG" />
   </a>
 
   <br />
@@ -31,16 +31,37 @@
     </a>
   </p>
 
-  <!-- Fixed Stats Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=itpRakib&style=for-the-badge&color=5A189A&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS" alt="Stars" />
+    <img src="https://img.shields.io/github/followers/itpRakib?style=for-the-badge&color=3C096C&label=FOLLOWERS&cacheSeconds=3600" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/itpRakib?style=for-the-badge&color=240046&label=STARS&cacheSeconds=3600" alt="Stars" />
   </p>
-  
-  <br />
 
 </div>
+
+```cpp
+// ⚙️ core_profile.cpp
+#include <iostream>
+#include <string>
+
+class FullStackEngineer {
+private:
+    std::string name = "MD. Rakibul Islam";
+    std::string focus = "Full-Stack Web Development & Cloud Infrastructure";
+    std::string stack[5] = {"C/C++", "JavaScript", "React", "Node.js", "MySQL"};
+
+public:
+    void execute() {
+        std::cout << "Initiating product engineering mindset..." << std::endl;
+        std::cout << "Building scalable, secure, and accessible architectures." << std::endl;
+    }
+};
+
+int main() {
+    FullStackEngineer dev;
+    dev.execute();
+    return 0;
+}
 
 ---
 
