@@ -39,8 +39,6 @@
 
 ---
 
----
-
 ## 01. About Me
 
 Passionate Computer Science student and aspiring Software Engineer with a primary focus on Web Development, Cloud Infrastructure, and Technical Innovation. Experienced in engineering responsive, performant, and fully accessible web solutions using modern front-end technologies and secure database architectures.
@@ -122,6 +120,7 @@ Architected a robust relational database schema engineered for small-to-medium s
 | **Security** | Configured RDS security groups, encryption at rest, and IAM policy access |
 | **Impact** | Provides high-availability database foundation with automated backups |
 | **Repository** | [tpRakib/RDBMS-Implementation](https://github.com/tpRakib) |
+
 </details>
 
 <details>
@@ -138,6 +137,7 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 | **Security** | Strict pointer and memory safety practices preventing buffer overflow |
 | **Impact** | Used as an educational visual aid for peer learning in CS data structure topics |
 | **Repository** | [tpRakib/CPP-Algorithm-Visualizer](https://github.com/tpRakib) |
+
 </details>
 
 ---
@@ -271,5 +271,3 @@ current_status:
     - Full-Stack / Backend Engineering Roles
     - Open Source Collaboration
 
-    14. Connect With Me
-"Striving for operational excellence through clean code, performant architecture, and continuous technical growth."
