@@ -217,12 +217,12 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=itpRakib&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=7B2CBF&text_color=F8F8F2&bg_color=0D1117&cache_seconds=86400&v=1" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itpRakib&theme=dracula&show_icons=true&hide_border=true&title_color=9D4EDD&icon_color=7B2CBF&text_color=F8F8F2&bg_color=0D1117" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itpRakib&theme=dracula&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" width="49%" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&layout=compact&theme=dracula&hide_border=true&title_color=9D4EDD&text_color=F8F8F2&bg_color=0D1117&cache_seconds=86400&v=1" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&theme=dracula&layout=compact&hide_border=true&title_color=9D4EDD&text_color=F8F8F2&bg_color=0D1117" alt="Top Languages" width="49%" />
 
 </div>
 
@@ -232,7 +232,7 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=itpRakib&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itpRakib&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
