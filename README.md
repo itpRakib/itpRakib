@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Architecture%20and%20Web%20Development&descAlignY=60&descSize=18&descColor=E0AAFF" width="100%" alt="Tech Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=dracula" width="100%" alt="Header Banner"/>
+
 
   <!-- Neon Terminal Typing Animation -->
   <a href="https://git.io/typing-svg">
