@@ -1,15 +1,14 @@
 <div align="center">
 
-  <!-- Ultimate Cyberpunk Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1A0B2E,4C1D95,7C3AED,00FFD1&height=260&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3C%20Software%20Engineer%20%26%20Tech%20Innovator%20%2F%3E&descAlignY=55&descSize=16&descColor=00FFD1" width="100%" alt="Header Banner"/>
+  <!-- Flawless Dark-Luxury Animated Banner (Blends into GitHub Dark Mode) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,3C096C,5A189A,0D1117&height=230&section=header&text=MD.%20RAKIBUL%20ISLAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner"/>
 
-  <br />
-
-  <!-- Code-Syntax Typing Animation -->
+  <!-- Neon Terminal Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=50&lines=sudo+apt-get+install+full-stack-dev;%3E+Architecting+Scalable+Web+Systems;const+stack+%3D+%5B%22JS%22%2C+%22Python%22%2C+%22C%2B%2B%22%5D;%3E+Optimizing+Databases+%26+Cloud+Infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&height=50&lines=const+developer+%3D+%22Full-Stack+Engineer%22%3B;%3E+Architecting+Scalable+Web+Systems;sudo+apt-get+install+innovation;%3E+Optimizing+Databases+%26+Cloud+Infra" alt="Typing SVG" />
   </a>
 
+  <br />
   <br />
 
   <!-- Academic & Location Info -->
@@ -44,6 +43,7 @@
   
 </div>
 
+---
 ---
 
 
