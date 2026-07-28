@@ -14,8 +14,8 @@
 
 <!-- Stats and Top Languages Side by Side (~49% each) -->
 <p align="center">
-  <img src="https://github-readme-stats-hvm8k8x8c-itprakibs-projects.vercel.app/api?username=itpRakib&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&icon_color=10B981&border_color=7C3AED" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-hvm8k8x8c-itprakibs-projects.vercel.app/api/top-langs/?username=itpRakib&layout=compact&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&border_color=7C3AED" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itpRakib&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&icon_color=10B981&border_color=7C3AED" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&layout=compact&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&border_color=7C3AED" width="49%" alt="Top Languages" />
 </p>
 
 
