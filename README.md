@@ -9,7 +9,7 @@
 
 <!-- Streak Card (Full Width) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itpRakib&theme=tokyonight&background=0A101F&sideBorder=7C3AED&ring=22D3EE&currStreakLabel=10B981" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=itpRakib&theme=tokyonight&background=0A101F&sideBorder=7C3AED&ring=22D3EE&currStreakLabel=10B981" width="100%" alt="GitHub Streak" />
 </p>
 
 <!-- Stats and Top Languages Side by Side (~49% each) -->
