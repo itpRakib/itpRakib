@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itpRakib/itpRakib/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itpRakib/itpRakib/main/light.svg">
-  <img alt="VISUAL.MAP Profile Banner" src="https://raw.githubusercontent.com/itpRakib/itpRakib/main/light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/light.svg">
+  <img alt="VISUAL.MAP Profile Banner" src="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/light.svg" width="100%">
 </picture>
 
 
