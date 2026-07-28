@@ -3,7 +3,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/light.svg">
-  <img alt="VISUAL.MAP Profile Banner" src="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/light.svg" width="100%">
+ <img alt="VISUAL.MAP Dark Banner" src="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/dark.svg" width="49%">
+<img alt="VISUAL.MAP Light Banner" src="https://raw.githubusercontent.com/itpRakib/itpRakib/main/.github/workflows/light.svg" width="49%">
 </picture>
 
 
