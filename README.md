@@ -351,14 +351,15 @@ Designed a high-efficiency command-line visualization tool in C++ to demonstrate
 ## 09. GitHub Analytics
 
 <!-- Streak Card (Full Width) -->
+<!-- Streak Card (Full Width) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itpRakib&theme=tokyonight&background=0A101F&sideBorder=7C3AED&ring=22D3EE&currStreakLabel=10B981" width="100%" alt="GitHub Streak" />
 </p>
 
 <!-- Stats and Top Languages Side by Side (~49% each) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itpRakib&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&icon_color=10B981&border_color=7C3AED" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itpRakib&layout=compact&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&border_color=7C3AED" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-omega-six-63.vercel.app/api?username=itpRakib&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&icon_color=10B981&border_color=7C3AED" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-omega-six-63.vercel.app/api/top-langs/?username=itpRakib&layout=compact&theme=tokyonight&bg_color=0A101F&title_color=22D3EE&text_color=FFFFFF&border_color=7C3AED" width="49%" alt="Top Languages" />
 </p>
 
 ---
